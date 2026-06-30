@@ -55,6 +55,8 @@ End demo
 
 All demo programs use training data **synthetic_train_200.txt** and test data **synthetic_test_40.txt**
 
+***
+
 **LinearRegressionProgram.cs** - linear regression trained using stochastic gradient descent (SGD)
 
 **LinearRegressionLeftPinvProgram.cs** - linear regression trained using closed-form left pseudo-inverse via Cholesky decomposition
