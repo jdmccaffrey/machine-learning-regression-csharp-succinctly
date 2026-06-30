@@ -69,7 +69,7 @@ All demo programs use training data **synthetic_train_200.txt** and test data **
 
 **QuadraticRegressionProgram.cs** - quadratic regression trained using closed-form Moore-Penrose pseudo-inverse via QR-Householder decomposition
 
-**QuadraticRegressionSQDProgram.cs** - quadratic regression trained using stochastic gradient descent
+**QuadraticRegressionSGDProgram.cs** - quadratic regression trained using stochastic gradient descent
 
 **KernelRidgeRegressionProgram.cs** - kernel ridge regression trained using Cholesky inverse
 
