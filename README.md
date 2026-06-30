@@ -75,6 +75,9 @@ All demo programs use training data **synthetic_train_200.txt** and test data **
 
 **KernelRidgeRegressionSGDProgram.cs** - kernel ridge regression trained using stochastic gradient descent
 
+---
+
+
 **SupportVectorRegressionProgram.cs** - support vector regression trained using stochastic sub-gradient descent (SSGD)
 
 **SupportVectorRegressionSMOProgram.cs** - support vector regression trained using sequential minimal optimization (SMO)
