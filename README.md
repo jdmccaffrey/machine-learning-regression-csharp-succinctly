@@ -63,21 +63,31 @@ All demo programs use training data **synthetic_train_200.txt** and test data **
 
 **LinearRegressionPinvQRProgram.cs** - linear regression trained using closed-form Moore-Penrose pseudo-inverse via QR-Householder decomposition
 
+---
+
 **NearestNeighborsRegressionProgram.cs** - nearest neighbors regression
 
 **NearestNeighborsRegressionWeightedProgram.cs** - nearest neighbors regression with weighted predictions
+
+---
 
 **QuadraticRegressionProgram.cs** - quadratic regression trained using closed-form Moore-Penrose pseudo-inverse via QR-Householder decomposition
 
 **QuadraticRegressionSGDProgram.cs** - quadratic regression trained using stochastic gradient descent
 
+---
+
 **KernelRidgeRegressionProgram.cs** - kernel ridge regression trained using Cholesky inverse
 
 **KernelRidgeRegressionSGDProgram.cs** - kernel ridge regression trained using stochastic gradient descent
 
+---
+
 **SupportVectorRegressionProgram.cs** - support vector regression trained using stochastic sub-gradient descent (SSGD)
 
 **SupportVectorRegressionSMOProgram.cs** - support vector regression trained using sequential minimal optimization (SMO)
+
+---
 
 **NeuralNetworkRegressionProgram.cs** - neural network regression, single hidden layer
 
